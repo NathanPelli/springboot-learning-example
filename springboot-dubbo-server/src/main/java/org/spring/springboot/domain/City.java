@@ -27,7 +27,7 @@ public class City implements Serializable {
     private String cityName;
 
     /**
-     * 描述
+     * 描述(阿里规范)
      */
     private String description;
 
